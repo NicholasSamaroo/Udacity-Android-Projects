@@ -8,14 +8,22 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".ColorsActivity" />
-        <activity android:name=".FamilyActivity" />
         <activity
-            android:name=".NumbersActivity"
+            android:name=".Activities.ColorsActivity"
+            android:label="@string/category_colors">
+        </activity>
+        <activity
+            android:name=".Activities.FamilyActivity"
+            android:label="@string/category_family">
+        </activity>
+        <activity
+            android:name=".Activities.NumbersActivity"
             android:label="@string/category_numbers">
         </activity>
-        <activity android:name=".PhrasesActivity" />
-        <activity android:name=".MainActivity">
+        <activity
+            android:name=".Activities.PhrasesActivity"
+            android:label="@string/category_phrases"/>
+        <activity android:name=".Activities.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
