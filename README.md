@@ -1,5 +1,5 @@
 # Udacity-Android-Projects
-List of Android projects completed by me from lessons provided by Udacity. Course names include:
+Android projects completed by me. Lessons were provided by **Udacity** which were created in collaboration with **Google**. Course names include:
   - **Grow With Google Challenge Scholarship: Android Basics**
   - **Advanced Android App Developement**
   - **Developing Android Apps**
