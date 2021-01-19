@@ -1,5 +1,5 @@
 # Udacity-Android-Projects
-Android projects completed by me. Lessons were provided by **Udacity** which were created in collaboration with **Google**. Course names include:
+Android projects completed by me with lessons provided by **Udacity** in their collaboration with **Google**. Course names include:
   - **Grow With Google Challenge Scholarship: Android Basics**
   - **Advanced Android App Developement**
   - **Developing Android Apps**
